@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: lib/standard.jar lib/c3p0-0.9.5.2.jar lib/fastjson-1.2.2.j
+ ar lib/commons-dbutils-1.6.jar lib/commons-logging-1.2.jar lib/common
+ s-beanutils-1.8.3.jar lib/mchange-commons-java-0.2.11.jar lib/mysql-c
+ onnector-java-5.1.42-bin.jar
+Main-Class: Index.Main
+
